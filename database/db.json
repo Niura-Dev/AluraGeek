@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Star Wars logo",
+            "price": "419.30",
+            "image": "https://m.media-amazon.com/images/I/61fVaai37dL._AC_SL1500_.jpg",
+            "id": 1
+        },
+        {
+            "name": "Star Wars tazas",
+            "price": "398",
+            "image": "https://m.media-amazon.com/images/I/612Dwy33B1L._AC_SL1200_.jpg",
+            "id": 2
+        },
+        {
+            "name": "Super Bros Lámpara",
+            "price": "169",
+            "image": "https://m.media-amazon.com/images/I/71Vj7xctBdL._AC_SL1500_.jpg",
+            "id": 3
+        },
+        {
+            "name": "Pac-Man Consola",
+            "price": "886",
+            "image": "https://m.media-amazon.com/images/I/81XJcj5CRAL._AC_SL1500_.jpg",
+            "id": 4
+        },
+        {
+            "name": "Batman Despertador",
+            "price": "782",
+            "image": "https://m.media-amazon.com/images/I/61LcRlSykVL._AC_SL1500_.jpg",
+            "id": 5
+        },
+        {
+            "name": "Boba Fett",
+            "price": "219",
+            "image": "https://m.media-amazon.com/images/I/41qL7F8DeuL._AC_SL1012_.jpg",
+            "id": 6
+        },
+        {
+            "name": "Pac-Man Lámpara",
+            "price": "449",
+            "image": "https://m.media-amazon.com/images/I/710FZf9o0ZL._AC_SL1500_.jpg",
+            "id": 7
+        }
+    ]
+}
