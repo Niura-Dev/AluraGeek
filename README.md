@@ -22,4 +22,6 @@
 ## 📌 Enlace al proyecto
 👉 [Ver proyecto en línea: (https://niura-dev.github.io/AluraGeek/)](https://niura-dev.github.io/AluraGeek/
 
-<img width="1920" height="1440" alt="835shots_so" src="https://github.com/user-attachments/assets/23da1c3c-aecb-4950-a736-1df4b102efdb" />
+<p align="center">
+  <img width="600" alt="AluraGeek Preview" src="https://github.com/user-attachments/assets/23da1c3c-aecb-4950-a736-1df4b102efdb" />
+</p>
