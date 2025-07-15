@@ -20,7 +20,7 @@
 - Sitio completamente responsivo
 
 ## 📌 Enlace al proyecto
-👉 [Ver proyecto en línea: (https://niura-dev.github.io/AluraGeek/)](https://niura-dev.github.io/AluraGeek/
+👉 [Ver proyecto en línea: https://niura-dev.github.io/AluraGeek/)](https://niura-dev.github.io/AluraGeek/
 
 <p align="center">
   <img width="600" alt="AluraGeek Preview" src="https://github.com/user-attachments/assets/23da1c3c-aecb-4950-a736-1df4b102efdb" />
